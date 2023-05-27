@@ -1,4 +1,5 @@
 ### Instalaçãos
+### O PROJETO NÃO ESTÁ 100%
 
 ### Funções
 * [] Cadastrar

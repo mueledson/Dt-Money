@@ -1,8 +1,8 @@
+//  O PROJETO NÃO ESTÁ 100%
 import React from "react";
 import ReactDOM from "react-dom/client";
 import { createServer, Model } from "miragejs";
 import { App } from "./App";
-import { request } from "http";
 
 createServer({
 
